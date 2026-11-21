@@ -1,5 +1,7 @@
 # 🔢 2048
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/zos-2048&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/zos-2048&ref=main&action=edit)
+
 Join the numbers and get to 2048!
 
 ## Category
